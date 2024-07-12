@@ -12,7 +12,7 @@ public class TestArithmetic
 	public void testSumWithPositives()
 	{
 		
-		
+		System.out.println("TestArithmetic(begin)");
 		
 		ArithmeticOperation a=new ArithmeticOperation();
 		int actual=a.sum(100, 10);
